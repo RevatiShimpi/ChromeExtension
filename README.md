@@ -7,4 +7,3 @@ To use:
 2) Choose any fav logo img you would like to use in same directory and name it as icon.png
 3) add this to google extension.
 4) And you are free to use!
-5) 
