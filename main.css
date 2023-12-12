@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    margin:0;
+    min-width:400px;
+}
+input{
+    padding:5px 5px 5px;
+    width:50%;
+    box-sizing: border-box;
+
+}
+button{
+    background-color: green;
+    color:white;
+    padding:5px 5px 5px;
+    font-weight:bold;
+    margin-top:7px;
+    display: block;
+}
+ul{
+    padding-left: 0px;
+    text-decoration:none;
+    font-size: medium ;
+    list-style:none;
+}
+li{
+   padding:4px;
+
+}
+li a{
+    color:green;
+}

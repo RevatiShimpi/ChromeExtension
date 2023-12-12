@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Leads_Tracker",
+    "action":{
+        "default_popup":"mainext.html",
+        "default_icon":"icon.jpg"
+    },
+    "permissions":[
+        "tabs"
+    ]
+
+
+}
